@@ -1,4 +1,3 @@
-# ARG version=3.36-2-alpine 
 FROM jenkins/agent:alpine
 
 USER root
